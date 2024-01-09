@@ -19,19 +19,28 @@ const sidebars = {
   // But you can create a sidebar manually
 
   tutorialSidebar: [
-    'intro',    
-    'gamesettings', 
+    'Customer script tutorial/intro',
     {
       type: 'category',
       label: 'Script Tutorial',
       items: [
-      'Customer script tutorial/download' , 
-      'Script tutorial/winrar' , 
-      'Script tutorial/Extracting' , 
-      'Script tutorial/Running' , 
+      'Customer script tutorial/download' ,  
+      'Customer script tutorial/Extracting' , 
+     
 
     ],
     },
+    {
+      type: 'category',
+      label: 'Python and its packages',
+      items: [
+      'python tutorial/intro' ,  
+      'python tutorial/frommsstore' ,  
+
+   
+    ],
+    },
+    'Customer script tutorial/run py file',
 
   ],
    
