@@ -25,7 +25,7 @@ const sidebars = {
       type: 'category',
       label: 'Script Tutorial',
       items: [
-      'Script tutorial/download' , 
+      'Customer script tutorial/download' , 
       'Script tutorial/winrar' , 
       'Script tutorial/Extracting' , 
       'Script tutorial/Running' , 
