@@ -32,7 +32,6 @@ const sidebars = {
 
     ],
     },
-    'Issues'
 
   ],
    
