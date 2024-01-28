@@ -13,8 +13,5 @@ sidebar_position: 4
 
 
 
-#### the  new folder should have 2 files in it : 
-##### --- a python **file**
-##### --- a pyarmor_runtime_000000 **folder**
-
-![image](pyarmorandpy.png)
+#### you will get installer.exe
+![image](installer.png)

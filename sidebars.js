@@ -20,19 +20,10 @@ const sidebars = {
 
   tutorialSidebar: [
     'Customer script tutorial/intro',
+   
     {
       type: 'category',
-      label: 'Script Tutorial',
-      items: [
-      'Customer script tutorial/download' ,  
-      'Customer script tutorial/Extracting' , 
-     
-
-    ],
-    },
-    {
-      type: 'category',
-      label: 'Python and its packages',
+      label: 'installing Python and its packages',
       items: [
       'python tutorial/intro' ,  
       'python tutorial/frommsstore' ,  
@@ -40,7 +31,29 @@ const sidebars = {
    
     ],
     },
-    'Customer script tutorial/run py file',
+    {
+      type: 'category',
+      label: 'getting the trigger bot',
+      items: [
+      'Customer script tutorial/download' ,  
+      'Customer script tutorial/winrar' , 
+      'Customer script tutorial/Extracting' , 
+      'Customer script tutorial/run py file',
+     
+
+    ],
+    },
+    {
+      type: 'category',
+      label: 'Potential issues',
+      items: [
+      'issues/antivirus' ,  
+      'issues/pythonfail' , 
+      'issues/otherissues',
+     
+
+    ],
+    },
 
   ],
    

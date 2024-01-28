@@ -1,17 +1,21 @@
 ---
-sidebar_label: 'running the python script'
+sidebar_label: 'installing and running the triggerbot'
 sidebar_position: 4
+title : the final steps 
 ---
-# final steps to get the pythong script working
-#### 1 - go back to the folder you extracted 
-![image](scriptandrar.png)
-#### 2 - right click and select "copy as path"
-![image](copyaspath.png)
-#### 3 - open cmd again and type ``cd`` followed by the path you copied then click enter
-##### here what it should look like , your path will varry 
-![image](cdandpath.png)
-#### 4 - in the same cmd type   ``python`` followed by the name of the script which currently is ``python v412.py`` and tap enter
-![image](pythonandpy.png)
+
+<br/>
+
+#### 1 -  now open the installer.exe
+![image](installer.png)
+#### 2 - click yes
+![image](installchoice.png)
+#### 3 - go to your Desktop and you will have 2 news files 
+#### - runner.bat
+#### - turbo.py
+![image](runner.png)
+#### 4 - open runner.bat and it will launch the bot after entring your key
+![image](botmenu.png)
 
 
 ### and that should run the bot as usual

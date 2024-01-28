@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
+title : installing python
 ---
 
-# python
 
-#### to run the python scrip you need to install python and some packages
+#### to run the trigger bot you need to install python and some packages
 
 
 

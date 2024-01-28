@@ -2,6 +2,7 @@
 sidebar_label: 'getting Winrar'
 sidebar_position: 3
 ---
+![image](winrar.png)
 
 ### if you already have winrar on your pc skip this step
 

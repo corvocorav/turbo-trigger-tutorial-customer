@@ -4,11 +4,10 @@ sidebar_position: 1
 
 # installing the correct python version
 
-#### to run the python scrip you need to install python and some packages
 ### 1 . open microsoft store
 ![image](msstore.png)
 
-### 2 . search "python 3.11" and install it 
+### 2 . search "python 3.12" and install it 
 
 ![image](python.png)
 
