@@ -18,11 +18,3 @@ title : the final steps
 ![image](botmenu.png)
 
 
-### and that should run the bot as usual
-![image](keypng.png)
-
-### from now to to run the bot you just do the steps in this section , so :
-- copying the path
-- pasting it in cmd after "cd"
-- using "python" followed by the name of the script
-
