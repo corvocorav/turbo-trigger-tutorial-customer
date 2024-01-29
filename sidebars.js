@@ -20,7 +20,7 @@ const sidebars = {
 
   tutorialSidebar: [
     'Customer script tutorial/intro',
-   
+    'gamesettings'
     {
       type: 'category',
       label: 'installing Python and its packages',
