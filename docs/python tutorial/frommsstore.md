@@ -17,7 +17,7 @@ sidebar_position: 1
 ![image](cmd.png)
 
 ### 4. in cmd type :
-#### ``pip install mss numpy Pillow pyautogui keyboard requests packaging wmi customtkinter``
+#### ``pip install winshell mss numpy Pillow pyautogui keyboard requests packaging wmi customtkinter``
 #### and tap enter
 ![image](pip.png)
 #### it will install some packages 
