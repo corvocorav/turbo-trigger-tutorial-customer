@@ -13,5 +13,5 @@ sidebar_position: 4
 
 
 
-#### you will get installer.exe
-![image](installer.png)
+#### you will get turbo.py
+![image](turbo.png)
