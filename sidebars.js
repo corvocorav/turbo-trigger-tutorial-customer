@@ -43,18 +43,20 @@ const sidebars = {
 
     ],
     },
+    'usermanual',
     {
       type: 'category',
       label: 'Potential issues',
       items: [
       'issues/antivirus' ,  
       'issues/pythonfail' , 
+      'openwithcmd',
       'issues/otherissues',
-     
+
 
     ],
     },
-    'usermanual',
+    
   ],
    
 };
