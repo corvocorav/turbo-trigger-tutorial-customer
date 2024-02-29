@@ -48,7 +48,7 @@ const sidebars = {
       type: 'category',
       label: 'Potential issues',
       items: [
-      'issues/antivirus' ,  
+      //'issues/antivirus' ,  
       'issues/pythonfail' , 
       'openwithcmd',
       'issues/otherissues',

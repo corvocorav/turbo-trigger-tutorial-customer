@@ -1,3 +1,7 @@
+---
+sidebar_label: 'script closing instantly'
+---
+
 ## python crashing troubleshooting
 
 - 1 -   create a new folder in your desktop and put turbo inside it
