@@ -3,7 +3,7 @@ sidebar_position: 1
 description : testing
 ogImage : /installer.png
 ---
-<img src="/installer.png" alt="Image Description" />
+<img src="installer.png" alt="Image Description" />
 
 #### this page will show you the steps to running out trigger bot 
 
