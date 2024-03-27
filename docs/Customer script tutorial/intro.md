@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
+description : testing
 ogImage : /installer.png
 ---
 
-[installer.png](https://turbo-trigger-tutorial-customer.vercel.app/docs/Customer%20script%20tutorial/intro) 
 
 #### this page will show you the steps to running out trigger bot 
 
