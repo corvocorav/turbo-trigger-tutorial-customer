@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-ogImage : keypng.png
+ogImage : installer.png
 ---
 
 
