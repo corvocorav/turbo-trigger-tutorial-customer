@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-description : testing
-ogImage : /installer.png
+description : this page will show you the steps to running out trigger bot 
+
 ---
-<img src="docs/Customer script tutorial/botmenu.png" alt="b" />
+
 
 #### this page will show you the steps to running out trigger bot 
 
