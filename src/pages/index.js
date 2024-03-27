@@ -10,7 +10,7 @@ export default function Layout(props) {
       <Head>
         <meta property="og:title" content="Your Website Title">
         <meta property="og:description" content="Description of your website">
-        <meta property="og:image" content="https://example.com/path/to/your-preview-image.png">
+        <meta property="og:image" content="https://picsum.photos/200/300">
 
       </Head>
       <Redirect to='/docs/Customer script tutorial/intro' />
