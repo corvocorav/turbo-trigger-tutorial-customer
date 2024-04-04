@@ -12,7 +12,7 @@ title : Run the script as Admin
 
   
 
-### - 1 - create a new folder in your desktop and put turbo inside it
+- ### 1 - create a new folder in your desktop and put turbo inside it
 
   
 
@@ -24,11 +24,13 @@ title : Run the script as Admin
 
   
 
-### - 2 - Copy the Folder Path:
+- ### 2 - Copy the Folder Path:
 
   
 
 Right click the folder that has the script inside , then choose "copy as path"
+
+and if you dont see this option , try holding down **SHIFT** when right clicking the folder
 
   
 
@@ -36,13 +38,12 @@ Right click the folder that has the script inside , then choose "copy as path"
 
   
 
-if you dont see this option , try holding down **SHIFT** when right clicking the folder
 
   
 
   
 
-### - 3- Open Command Prompt as Admin:
+- ### 3- Open Command Prompt as Admin:
 
   
 
@@ -50,7 +51,7 @@ Press **Windows Key** + **X**.
 
   
 
-Choose "Command Prompt (**Admin**)" or Choose "Termina (**Admin**)"
+Choose "Command Prompt (**Admin**)" or "Terminal (**Admin**)"
 
   
 
@@ -60,7 +61,7 @@ Choose "Command Prompt (**Admin**)" or Choose "Termina (**Admin**)"
 
   
 
-### - 4- Navigate to Folder:
+- ### 4- Navigate to Folder:
 
   
 
@@ -80,7 +81,8 @@ Press Enter.
 
   
 
-6. Run Script:
+- ### 5- . Run Script:
+
 
 Type python turbo.py and press Enter.
 
