@@ -1,8 +1,5 @@
-
----  
-
-title : if the menu launched but the script isnt working
-
+--- 
+title : Run the script as Admin
 ---
 
   
