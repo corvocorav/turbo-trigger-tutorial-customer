@@ -9,9 +9,9 @@ title : Run the script as Admin
 ## How to Run the Python Script from Command Prompt as **ADMIN**
 
   
-
   
-
+    
+  
 - ### 1 - create a new folder in your desktop and put turbo inside it
 
   
