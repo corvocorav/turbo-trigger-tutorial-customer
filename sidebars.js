@@ -51,6 +51,7 @@ const sidebars = {
       //'issues/antivirus' ,  
       'issues/pythonfail' , 
       'openwithcmd',
+      'Customer script tutorial/runasadmin',
       'issues/otherissues',
 
 

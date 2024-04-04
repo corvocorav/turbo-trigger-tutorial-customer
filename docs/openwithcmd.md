@@ -1,5 +1,6 @@
 ---
 sidebar_label: 'script closing instantly'
+title : Script crashing 
 ---
 
 ## python crashing troubleshooting
