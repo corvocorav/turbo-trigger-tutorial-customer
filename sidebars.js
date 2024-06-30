@@ -23,9 +23,8 @@ const sidebars = {
     'gamesettings', 
     {
       type: 'category',
-      label: 'installing Python and its packages',
+      label: 'installing Python',
       items: [
-      'python tutorial/intro' ,  
       'python tutorial/frommsstore' ,  
 
    
