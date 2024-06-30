@@ -1,5 +1,7 @@
----
+--- 
 sidebar_position: 1
+title : correct Python version 
+
 ---
 
 #### to run the trigger bot you need to install python and some packages
