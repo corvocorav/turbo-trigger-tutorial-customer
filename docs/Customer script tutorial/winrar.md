@@ -2,7 +2,7 @@
 sidebar_label: 'getting Winrar'
 sidebar_position: 3
 ---
-![image](winrar.png)
+<!-- ![image](winrar.png)-->
 <img src="winrar.png" alt="alt text" width="200" height="100">
 ### if you already have winrar on your pc skip this step
 
