@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# installing the correct python version
+#### to run the trigger bot you need to install python and some packages
 
 ### 1 . open microsoft store
 ![image](msstore.png)
