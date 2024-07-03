@@ -5,10 +5,10 @@ sidebar_position: 2
 
 # Downloading the script
 
-### Frist visit this link : https://mega.nz/file/d2ci1BYT
+### Frist visit this link : https://mega.nz/file/FqdVVIiS
 
 ### you will be asked for a decryption key here is it : 
 
-### ``jwRWl1FY5UymeIHNALwconhfodnELh5YYbNa65ya_Xs``
+### ``1-jNUAiLa51APRPMQUo0uXoQKZ48q5FzDLZLhLvnrs8``
 
 
