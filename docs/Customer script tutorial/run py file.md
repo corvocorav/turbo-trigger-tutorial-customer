@@ -12,5 +12,5 @@ title : the final steps
 ![image](rightclick.png)
 #### 3 - it will launch the bot after entring your key
 ![image](botmenu.png)
-
+### 4 - if it crashes and closes just open it again and it should work properly
 
